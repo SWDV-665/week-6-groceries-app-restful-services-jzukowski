@@ -14,6 +14,7 @@ import { GroceriesServiceProvider } from '../providers/groceries-service/groceri
 import { InputDialogServiceProvider } from '../providers/input-dialog-service/input-dialog-service';
 import {ModalGroceryItemPageModule} from '../pages/modal-grocery-item/modal-grocery-item.module';
 import { SocialSharing } from '@ionic-native/social-sharing';
+import { HttpClientModule } from '@angular/common/http';
 
 
 @NgModule({
@@ -27,6 +28,7 @@ import { SocialSharing } from '@ionic-native/social-sharing';
   imports: [
     BrowserModule,
     ModalGroceryItemPageModule,
+    HttpClientModule,
     IonicModule.forRoot(MyApp)
   ],
   bootstrap: [IonicApp],
