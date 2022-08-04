@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="/Users/janzukowski/Documents/SWDV 665/week-5-ionic-native-jzukowski/platforms/android/CordovaLib/assets"/><source path="/Users/janzukowski/Documents/SWDV 665/week-5-ionic-native-jzukowski/platforms/android/CordovaLib/build/generated/assets/shaders/debug"/></dataSet><dataSet config="debug"><source path="/Users/janzukowski/Documents/SWDV 665/week-5-ionic-native-jzukowski/platforms/android/CordovaLib/src/debug/assets"/></dataSet></merger>
